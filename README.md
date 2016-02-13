@@ -1,2 +1,2 @@
 # mnwa
-mnwa.cf config CNAME
+http://mnwa.cf config CNAME
